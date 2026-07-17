@@ -62,7 +62,7 @@ n.discard(1)
 n.discard(7)
 print(n)
 
-#pop() remove foor a random element cause its a set nooo index
+#pop() remove for a random element cause its a set nooo index
 l = {1 , 2, 3, 4}
 l.pop()
 print(l)
@@ -93,7 +93,7 @@ print(q - w)
 
 print("#" * 50)
 
-# intersection  >>> t $ o
+# intersection  >>> t & o
 t = { 1, 2, "ee", 10}
 o = { 1 , "ee", 4, 3}
 print(t.intersection(o))
