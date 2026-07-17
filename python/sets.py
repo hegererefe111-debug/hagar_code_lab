@@ -5,6 +5,11 @@
 #---set has only immutable data types ( no,str,tuple) not list or dict
 #--set item is unique--------
 
+# Data Engineering Focus: 
+# 1. Removing Duplicates (Get Unique Values)
+# 2. Data Reconciliation (Comparing two systems using difference & intersection)
+
+
 myset1 = {" hagar", "arafa", 100}
 print(myset1)
 
