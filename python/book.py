@@ -1,7 +1,4 @@
 #------------------------
-# print(mylist) # اقدر اعدل في الليسته 
-# mylist[-1] = True
-# print(mylist)
 print(bin(10))
 lst = [1,2,3]
 lst+= [4,5,6]
